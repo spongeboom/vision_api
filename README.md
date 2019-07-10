@@ -4,6 +4,7 @@
   사용자가 쉽게 이미지를 분석하고 분석의결과를 확연하게 확인할수 있는 어플 입니다.
 
   - 분석 절차
+
   <img width="700px" height="300px" src="./app/src/main/res/drawable/dataAnalysis.png"></img>
 
 ## LABEL 분석
