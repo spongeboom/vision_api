@@ -1,5 +1,5 @@
 # 이미지 분석
-  이 APP은 Google Cloud Platform의 Vision api 이미지를 추출해서 이미지를 2가지의 모드로 분석할수 있는 어플입니다.
+  이 APP은 Google Cloud Platform의 Vision api 를 사용해 이미지를 추출해서 이미지를 2가지의 모드로 분석할수 있는 어플입니다.
   분석 모드로는 LABEL 분석과 LANDMARK 분석이 있고 분석 모드의 따라서 분석 결과가 다르게 나와
   사용자가 쉽게 이미지를 분석하고 분석의결과를 확연하게 확인할수 있는 어플 입니다.
 
