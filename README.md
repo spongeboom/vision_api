@@ -13,6 +13,7 @@
   - Tool : Android Studio ( version : 3.4.1 )
 
   - 외부 라이브러리 :
+  
    |<center>Tool</center>  |<center>사용목적</center>  |<center>Version</center> |
    |:---------------------:|:-----------------------:|:-----------------------:|
    | **Google Vision API**  | Google Cloud Platform 에서 제공하는 이미지 분석기능을 사용하기위해 추가 | 1.23.0 |
