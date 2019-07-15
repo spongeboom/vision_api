@@ -11,10 +11,10 @@
   - 개발 언어 : Kotlin( version : 1.3.31 )
 
   - Tool : Android Studio ( version : 3.4.1 )
-  
+
   - 외부 라이브러리 :
    |<center>Tool</center>  |<center>사용목적</center>  |<center>Version</center> |
-   |:----:|:------:|:------:|
+   |:---------------------:|:-----------------------:|:-----------------------:|
    | **Google Vision API**  | Google Cloud Platform 에서 제공하는 이미지 분석기능을 사용하기위해 추가 | 1.23.0 |
    | **Google Map** | LANDMARK 분석시 해당 LANDMARK의 위치를 보여주기 위해 사용 | 16.0.0 |
    | **Glide** | 사용자의 이미지를 빠르고 좀더 효과적으로 보여주기 위해서 사용 | 4.9.0 |
