@@ -34,12 +34,12 @@
   #### - **사진 가져오기** ( 앨범 or 카메라 )
   <img width="200px" height="300px" src="./app/src/main/res/drawable/picture_album.png"></img>
 
-  하단의 이미지 업로드 버튼을 터치하면 볼수 있는 다이얼로그(DialogFragment) 사용자에게 카메라권한 과 저장소 권한을 받아 앨범과 카메라에 접근을 해 사진을 가져올수 있다.
+  하단의 이미지 업로드 버튼을 터치하면 볼수 있는 다이얼로그를 통해 사용자에게 카메라권한 과 저장소 권한을 받아 앨범과 카메라에 접근을 해 사진을 가져올수 있다.
 
   #### - **분석 모드 선택**
   <img width="200px" height="300px" src="./app/src/main/res/drawable/anlaysis_type.png"></img>
 
-  사진을 가져온뒤 어떤 분석을 진행 할것인지 묻는 다이얼 로그 분석 모드에 따라 다른 결과를 볼 수 있다.
+  사진을 가져온뒤 어떤 분석을 진행 할것인지 묻는 다이얼 로그를 통해 선택한 분석 모드에 따라 다른 결과를 볼 수 있다.
 
   ####  - **LABEL 분석**
   <img width="200px" height="300px" src="./app/src/main/res/drawable/label_analysis.png"></img>
