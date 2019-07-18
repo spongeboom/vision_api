@@ -21,7 +21,7 @@
    | **Glide** | 사용자의 이미지를 빠르고 좀더 효과적으로 보여주기 위해서 사용 | 4.9.0 |
 
    ### 어플 시연 영상
-   [![IMAGE ALT TEXT](https://img.youtube.com/vi/euhvDLVBtgo/0.jpg)](http://www.youtube.com/watch?v=euhvDLVBtgo "어플 시연 영상")
+   [![IMAGE ALT TEXT](https://img.youtube.com/vi/gfFvB7U8y9g/0.jpg)](http://www.youtube.com/watch?v=gfFvB7U8y9g "어플 시연 영상")
 
 
 ## 3.이미지 분석 절차
